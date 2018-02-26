@@ -10,3 +10,12 @@
 
 ## Technologies
 - Xerox machines: scanning and printing technologies
+
+## Programming Languages
+- PHP;
+- MySQL;
+- HTML5;
+- CSS3;
+
+## Frameworks
+- Bootstrap;
