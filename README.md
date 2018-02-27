@@ -16,7 +16,7 @@
 - MySQL;
 - HTML5;
 - CSS3;
-- JavaScript/ AngularJS;
+- JavaScript/ Angular;
 
 ## Frameworks
 - Bootstrap;
